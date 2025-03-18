@@ -15,15 +15,17 @@
         "slide_Q4UPQq": {
           "type": "slide",
           "settings": {
+            "img_mobile": "shopify://shop_images/man-poses-in-light-colored-overcoat.jpg",
+            "img_desktop": "shopify://shop_images/large-fall-leaf-in-hand.jpg",
             "overlay_color": "#000000",
             "overlay_opacity": 10,
             "overlay_blur": 2,
-            "subtitle": "Developed by KondaSoft",
-            "title": "Welcome to KS BootShop Theme",
-            "description": "<p>Free Shopify Theme inspired by simplicity and elegance.</p>",
-            "btn_primary_text": "Get theme",
-            "btn_primary_url": "https://www.kondasoft.com/collections/shopify-themes/products/ks-bootshop",
-            "btn_secondary_text": "Learn more",
+            "subtitle": "Welcome to Aparyx",
+            "title": "Luxury Reloved. Globally Curated, Uniquely Yours",
+            "description": "",
+            "btn_primary_text": "Check out!",
+            "btn_primary_url": "shopify://collections/all",
+            "btn_secondary_text": "",
             "btn_secondary_url": "https://www.kondasoft.com/collections/shopify-themes/products/ks-bootshop"
           }
         },
@@ -171,38 +173,15 @@
           "type": "collection",
           "settings": {
             "collection": "children",
-            "title": ""
-          }
-        },
-        "collection_XRMXNt": {
-          "type": "collection",
-          "settings": {
-            "collection": "babies",
-            "title": ""
-          }
-        },
-        "collection_fQ9QDf": {
-          "type": "collection",
-          "settings": {
-            "collection": "latest",
-            "title": ""
-          }
-        },
-        "collection_kRQqkR": {
-          "type": "collection",
-          "settings": {
-            "collection": "sale",
-            "title": ""
+            "img": "shopify://shop_images/kids-power-posing.jpg",
+            "title": "Kids"
           }
         }
       },
       "block_order": [
         "collection_rznnLq",
         "collection_KdHXk9",
-        "collection_b7ELCB",
-        "collection_XRMXNt",
-        "collection_fQ9QDf",
-        "collection_kRQqkR"
+        "collection_b7ELCB"
       ],
       "settings": {
         "bg_color": "bg-body",
@@ -428,24 +407,6 @@
         "pt": 0,
         "pb": 0
       }
-    },
-    "footer_Bp3mwm": {
-      "type": "footer",
-      "settings": {
-        "bg_color": "bg-body",
-        "bg_opacity": 100,
-        "bg_gradient": "",
-        "text_color": "text-body",
-        "border_top_width": 0,
-        "border_bottom_width": 0,
-        "border_color": "border-body",
-        "border_opacity": 100,
-        "social_icons": true,
-        "show_payment_icons": true,
-        "show_powered_by": true,
-        "pt": 10,
-        "pb": 10
-      }
     }
   },
   "order": [
@@ -455,9 +416,8 @@
     "featured_collections_n3Br7m",
     "separator_kfq8kz",
     "media_with_text_xTY8gi",
-    "faq_7TT7z4",
     "testimonials_eFtnyC",
     "separator_pMbxtB",
-    "footer_Bp3mwm"
+    "faq_7TT7z4"
   ]
 }

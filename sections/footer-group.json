@@ -11,6 +11,24 @@
   "type": "footer",
   "name": "Footer Group",
   "sections": {
+    "footer_AEGDXL": {
+      "type": "footer",
+      "settings": {
+        "bg_color": "bg-body",
+        "bg_opacity": 100,
+        "bg_gradient": "",
+        "text_color": "text-body",
+        "border_top_width": 0,
+        "border_bottom_width": 0,
+        "border_color": "border-body",
+        "border_opacity": 100,
+        "social_icons": true,
+        "show_payment_icons": true,
+        "show_powered_by": true,
+        "pt": 10,
+        "pb": 10
+      }
+    },
     "newsletter_fL4LWF": {
       "type": "newsletter",
       "settings": {
@@ -36,6 +54,7 @@
     }
   },
   "order": [
-    "newsletter_fL4LWF"
+    "newsletter_fL4LWF",
+    "footer_AEGDXL"
   ]
 }
